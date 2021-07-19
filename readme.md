@@ -469,6 +469,7 @@
 | [Mock.Video](https://www.mock.video/)| Instantly create mockups by adding a device frame to your videos. |
 | [MockupBro](https://mockupbro.com/)| Create product mockups with online mockup generator! Just choose a mockup, upload your design and download your image without a watermark. |
 | [Animockup](https://animockup.com/)| Create animated mockups in the browser 🔥. |
+| [Rotato](https://rotato.app/)| Unlimited 3D mockups. Animatable. Transparent backgrounds. Connects to iPhone, XD, Sketch. Mac Only. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
